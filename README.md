@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋　
+My real name is Kazuo Iimura.
+and my handle is kzbe on internet.
+
 
 <!--
 **kzbe/kzbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
